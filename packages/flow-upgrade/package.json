@@ -38,7 +38,7 @@
     "ora": "^5.4.1",
     "prompt-confirm": "^1.2.0",
     "semver": "^7.3.7",
-    "yargs": "^17.0.1"
+    "yargs": "^17.7.2"
   },
   "peerDependencies": {
     "prettier": "2.8.8"
