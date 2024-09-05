@@ -35,7 +35,7 @@
     "hermes-parser": "0.14.0",
     "hermes-transform": "0.14.0",
     "klaw-sync": "^6.0.0",
-    "ora": "^5.4.1",
+    "ora": "^6.0.1",
     "prompt-confirm": "^1.2.0",
     "semver": "^7.3.7",
     "yargs": "^17.0.1"
