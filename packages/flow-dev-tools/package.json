@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "dependencies": {
     "chalk": "^4.1.2",
-    "diff": "^3.5.0",
+    "diff": "^8.0.3",
     "flow-parser": "*",
     "flow-remove-types": "*",
     "glob": "^7.0.3",
